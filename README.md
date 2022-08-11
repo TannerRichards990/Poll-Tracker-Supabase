@@ -31,3 +31,5 @@ https://alchemycodelab.github.io/web-01-soccer-scorekeeper-supabase/
 | IMPURE: `displayAllGames()` : clears out and appends to games div                                                            | .5  |
 | ASYNC: `createGame(game)` : creates a game for currently logged in user in supabase                                          | 2   |
 | ASYNC: `getGames()` : returns games for currently logged in user from supabase                                               | 2   |
+
+
