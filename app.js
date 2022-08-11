@@ -14,7 +14,7 @@ const finishGameButton = document.getElementById('finish-game-button');
 const teamOneLabel = document.getElementById('team-one-name');
 const teamTwoLabel = document.getElementById('team-two-name');
 
-// checkAuth();
+
 
 let name1 = '';
 let name2 = '';
