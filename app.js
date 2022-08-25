@@ -55,7 +55,7 @@ teamOneSubtractButton.addEventListener('click', () => {
 
 teamTwoSubtractButton.addEventListener('click', () => {
     // decrement the current state for team two's score
-    score1--;
+    score2--;
     displayCurrentGameEl();
 });
 
